@@ -1,6 +1,6 @@
 # Millennials to Snake People
 
-Browser extension that reveals the *real* truth behind Millennials.
+This is a repackaging of eric-w-bailey's millenials-to-snake-people but without all the other jokes he thought was funny. Just the one joke for me.
 
 
 ## Installation
